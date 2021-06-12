@@ -1,0 +1,19 @@
+# Idea: Use skLearn or maybe other library to get the radial distribution
+# Solution: Nothing of this was needed, I solved this with matplotlib
+# Now I need an algorithm to link the probability of the wavefunction squared with the radius 
+# For this I'll create 100 points in the maximun value, 99 points in the maximun less 1 value
+# 98 for the third and so on, afther that I need to make 100 positions for those values 
+
+
+Use these line to check the values of upsy
+
+# This code is made for test the distribution set, because it can't get clear through other plots
+# plt.figure(figsize=[12,12])
+# plt.hist2d(rx2, rx2, bins=100)
+# plt.show()
+# u=[] # Control variable len(rx2), sum(u), (u[-1]+u[0])*len(u)/2, len(u), u[-1]+u[0]
+
+## Check the difference between the lenght of the rx2 vector and the mathematical formula 15/05/2021
+## This difference is about 0.11% and not affect the code or its function
+## it is due lengt in vector "u" is 901 instead of 900
+
