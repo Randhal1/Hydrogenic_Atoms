@@ -26,6 +26,8 @@ This project uses the technology of jupyter notebooks and the power of math to o
 
 ## $P_l^{-m}(x)=(-1)^m\frac{(l-m)!}{(l+m)!} P_l^m(x)$
 
+#### Remember $P_l^m$: Is the associated Legendre Polynomial.
+
 ## $P_l^m(x)=(1-x^2)^\frac{m}{2} \frac{d^m}{dx^m} P_l(x)$ for $l \geq m \geq 0$
 
 ### $P_l(x)$: Is the Legendre Polynomial

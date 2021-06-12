@@ -4,6 +4,7 @@
 # For this I'll create 100 points in the maximun value, 99 points in the maximun less 1 value
 # 98 for the third and so on, afther that I need to make 100 positions for those values 
 
+# Idea: Define the orbitals as s, p, d, f as functions when plotting [To implement]
 
 Use these line to check the values of upsy
 
@@ -17,3 +18,10 @@ Use these line to check the values of upsy
 ## This difference is about 0.11% and not affect the code or its function
 ## it is due lengt in vector "u" is 901 instead of 900
 
+# Testing import: Use only for texting.
+# from sympy import oo, integrate, solve # Use for manual testing only
+# from scipy.constants import find # Just for find constants info at: scipy.org/scipy.constants.find
+# Active import section
+
+To put in second stage
+#x_lim=rx[loc_min] # It has been used for locate the data between limits
